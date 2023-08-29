@@ -1,0 +1,18 @@
+#parcel
+-dev build
+-local server
+-HMR: Hot module replacement
+-File watching algorithm -written in c++
+-Caching-Faster builds
+-Image optimization
+-Minification
+-Bundling
+-Compress
+-consistent hashing
+-code splitting
+-differential bundling-- to support older browsers
+-Diagnostics
+-Error handling
+-HTTPS
+-Tree shaking -remove unused code for you
+-different dev and prod build
